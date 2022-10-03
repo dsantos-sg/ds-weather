@@ -7,15 +7,15 @@ Small web application for weather forecasting, just for testing purposes.
 - Modern design
 - Modern tech stack
 
-### Available on:
+### Live version available on:
+- https://ds-weather.vercel.app
 
 
 ### Source code:
-Available on:
-https://github.com/dsantos-sg/ds-weather
+- https://github.com/dsantos-sg/ds-weather
 
 ### NodeJS Version:
-v18.7.0
+- v18.7.0
 
 ### Installation:
 - Using NVM (https://github.com/nvm-sh/nvm) or another NodeJS version manager to set the right version.
@@ -25,7 +25,7 @@ v18.7.0
 - to run the application in your local environment, call: yarn dev
 
 
-### Tech stack
+### Tech stack:
 - HTML5, CSS3, JavaScript ES5+
 - ReactJS
 - Material UI, emotion, Material UI Icons (UI Framework)
@@ -36,7 +36,7 @@ v18.7.0
 - https://brightsky.dev/
 
 ### IP Geolocation (to get current approximated location):
-- http://ipwho.is/
+- https://ipwho.is/
 
 
 

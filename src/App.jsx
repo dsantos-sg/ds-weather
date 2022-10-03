@@ -33,7 +33,7 @@ export default function App() {
   const [isFound, setIsFound] = useState(null)
 
   useEffect(() => {
-    axios.get('http://ipwho.is/')
+    axios.get('https://ipwho.is/')
       .then(async res => {
         const {latitude, longitude, city, country_code} = res.data
         await setCurrentPlace({latitude, longitude, today, futureDate, city, country_code})
