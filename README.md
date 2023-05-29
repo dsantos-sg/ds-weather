@@ -8,7 +8,7 @@ Small web application for weather forecasting, just for testing purposes.
 - Modern tech stack
 
 ### Live version available on:
-- https://ds-weather.vercel.app
+- https://ds-weather.onrender.com
 
 
 ### Source code:
